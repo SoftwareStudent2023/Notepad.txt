@@ -2,7 +2,7 @@ Title: Notepad.txt		Date: 2023-11-25
 
 Summary: Combined Computer Files of Numbers.txt and Msbild.bat 
 
-decimal == 335,232
+decimal total == 335,232
 
 binary conversion == 1010001110110000000
 
@@ -10,4 +10,5 @@ binary conversion == 1010001110110000000
 
 
 Curent number: 337,169
+Bytes: 42,146 
 
