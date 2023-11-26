@@ -11,5 +11,5 @@ binary conversion == 1010001110110000000
 
 Curent number: 339,427
 Bytes: 42,428
-KiloBytes: 331
+KiloBytes: 44.4
 
