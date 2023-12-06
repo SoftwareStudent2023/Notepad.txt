@@ -85,7 +85,7 @@ complete group @ 18
 
 current number: 
 
-107,941
+114,008
 
 Complete Group @ 18 ("100000000000000000")
 
